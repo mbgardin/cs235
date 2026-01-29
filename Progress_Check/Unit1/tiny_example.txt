@@ -1,0 +1,4 @@
+             Alabama  1976      1           9.5
+             Alabama  1976      2           7.0
+             Alabama  1976      3           6.0
+             Alabama  1976      4           7.5

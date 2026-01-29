@@ -1,0 +1,12 @@
+---
+:id: 334087855
+:submitters:
+- :name: Monte Birk Gardiner
+  :email: mbgardin@byu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-05-19 23:33:58.348675000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-05-19 16:33:58.348675000 Z
+:status: processed
+:score: 13.0
